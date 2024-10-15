@@ -4,7 +4,7 @@ To aid in reproducibility efforts by future researchers, the dataset pre-process
 
 The Edge-IIoTset2023 dataset can be downloaded from https://ieee-dataport.org/documents/edge-iiotset-new-comprehensive-realistic-cyber-security-dataset-iot-and-iiot-applications
 
-The Edge-IIoTset2023 dataset has already undergone some pre-processing.  The network packet capture (pcap) files have already been converted to CSV format.  In com-pressed form, the dataset consumes ~1.5GB of disk space, and after uncompressing, ex-pands to ~12GB of disk space.
+The Edge-IIoTset2023 dataset has already undergone some pre-processing.  The network packet capture (pcap) files have already been converted to CSV format.  In compressed form, the dataset consumes ~1.5GB of disk space, and after uncompressing, expands to ~12GB of disk space.
 ```
 $ du -sh 'Edge-IIoTset dataset.zip'
 1.5G
