@@ -1,7 +1,7 @@
 # cisis23igpl
 
 Supplementary material for paper published in Logic Journal of the IGPL special issue CISIS 2023
-DOI: ???
+DOI: 10.1093/jigpal/jzaf017
 
 This repository contains the following files:
 
